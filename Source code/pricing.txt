@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Pricing</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Tryst Hall</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About Us</a>
+                    </li>
+                    <li class="active">
+                        <a href="reservation.html">Reservation</a>
+                    </li>
+                             <li>
+                                <a href="gallery.html">Gallery</a>
+                            </li>
+                            <li>
+                        <a href="events.html">Events</a>
+                           </li>
+                           <li>
+                                <a href="pricing.html">Price</a>
+                            </li>
+                            <li>
+                                <a href="contact.html">Conatct Us</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    
+                    
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Pricing Table
+                    <small>Subheading</small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="index.html">Home</a>
+                    </li>
+                    <li class="active">Pricing Table</li>
+                </ol>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Content Row -->
+        <div class="row">
+            <div class="col-md-4">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Bronze</h3>
+                    </div>
+                    <div class="panel-body">
+                        <span class="price"><sup>$</sup>1999<sup>99</sup></span>
+                        <span class="period">per day</span>
+                    </div>
+
+
+                    <ul class="list-group">
+                    <li class="list-group-item"><strong>2 hour</strong> Time Slot.</li>
+                        <li class="list-group-item"><strong>1 hour</strong> consultation with one of our coordinators.</li>
+                        <li class="list-group-item"><strong>1 hour</strong> rehearsal on Wednesday or Thursday prior to your                         occasion.</li>
+                        <li class="list-group-item">Coordinator and staff to set up and break down your event.
+													Sound system managed by our event staff
+													Liability Insurance.
+													White garden resin chairs
+													Guest Book table
+													Gift table
+													Bridal Cabana available
+													Ivory market umbrellas placed throughout the garden
+													Complementary Parking in Lot 16</li>
+                     </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Silver </h3>
+                    </div>
+                    <div class="panel-body">
+                        <span class="price"><sup>$</sup>2999<sup>99</sup></span>
+                        <span class="period">per day</span>
+                    </div>
+                    <ul class="list-group">
+                    <li class="list-group-item"><strong>4 hours</strong> Time Slot.</li>
+                        <li class="list-group-item"><strong>1 hour</strong> consultation with one of our coordinators.</li>
+                        <li class="list-group-item"><strong>1 hour</strong> rehearsal on Wednesday or Thursday prior to your                         occasion.</li>
+                        <li class="list-group-item">Coordinator and staff to set up and break down your event.
+													Sound system managed by our event staff
+													Liability Insurance.
+													White garden resin chairs
+													Guest Book table
+													Gift table
+													Bridal Cabana available
+													Ivory market umbrellas placed throughout the garden
+													Complementary Parking in Lot 16
+                                                    </li>
+                     </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Gold</h3>
+                    </div>
+                    <div class="panel-body">
+                        <span class="price"><sup>$</sup>3999<sup>99</sup></span>
+                        <span class="period">per day</span>
+                    </div>
+                    <ul class="list-group">
+                        <li class="list-group-item"><strong>6 hours</strong> Time Slot.</li>
+                        <li class="list-group-item"><strong>1 hour</strong> consultation with one of our coordinators.</li>
+                        <li class="list-group-item"><strong>1 hour</strong> rehearsal on Wednesday or Thursday prior to your                         occasion.</li>
+                        <li class="list-group-item">Coordinator and staff to set up and break down your event.
+													Sound system managed by our event staff
+													Liability Insurance.
+													White garden resin chairs
+													Guest Book table
+													Gift table
+													Bridal Cabana available
+													Ivory market umbrellas placed throughout the garden
+													Complementary Parking in Lot 16
+                                                    </li>
+                                                    Salad and choice of one entree. Option for additional entree available for $3.00/person.
+A variety of cuisine options: A Taste of Italy, South of the Border, Asian-Inspired, Hawaiian Luau, and All American.
+Starbucks coffee, iced tea, soft drinks, and iced water.
+Dessert
+Glassware, china, flatware, linen, and uniformed staff.
+Includes service charge and sale tax.</li>
+                        <li class="list-group-item"><a href="#" class="btn btn-primary">Sign Up!</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Bhasha</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
